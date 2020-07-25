@@ -4,6 +4,12 @@
 
 **Hi my name is Andrew!**
 
+*I'm not the best coder but i always try my best*
+
+~~And I never make mistakes~~  Just kidding I definitely make mistakes
+
+***I am a fan of creating things thats why I enjoy code***
+
 [And this is my profile page](/https://github.com/ajtheblueninja)
 
 - here is an example of a table of contents for my learning journal
