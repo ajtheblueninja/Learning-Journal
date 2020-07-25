@@ -3,6 +3,7 @@
 ## Code 102 Learning Journal
 
 **Hi my name is Andrew!**
+[And this is my profile page] (https://github.com/ajtheblueninja)
 
 - here is an example of a table of contents for my learning journal
 
