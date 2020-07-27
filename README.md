@@ -11,9 +11,7 @@
 ***I am a fan of creating things thats why I enjoy code***
 
 [And this is my profile page](/https://github.com/ajtheblueninja)
-
-- here is an example of a table of contents for my learning journal
-
+ (If it doesnt work my username is ajtheblueninja)
 A growth mindset is when you keep your mind open to new ideas and possibilites to acheive a goal.
 
 Ways to keep your mind open
