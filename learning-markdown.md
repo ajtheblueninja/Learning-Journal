@@ -3,9 +3,9 @@
 [Read me page](/https://github.com/ajtheblueninja)
 
 ## My explanation on markdown
-Markdown is very simple and easy to understand.
+Markdown is very simple and easy to understand. Markdown is a way to make websites using words and certain symbols like #, *, or ~ to change those words
 
-All you need to know to start using markdown is the symbols that you use to make things appear or act in a certain way.
+The symbols that you use to make things appear or act in a certain way.
 Like for instance 1 # makes a sentence into the header but there are alot more things you can do like using * to italitize a sentence.
 *Just like this sentence* Or just like the 2nd heading which you can make with ## 
 
