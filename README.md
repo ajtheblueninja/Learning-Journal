@@ -22,3 +22,4 @@ Ways to keep your mind open
 Table Of Contents
 - [Markdown examples from class 1](/Markdown-examples.md)
 - [Learning Markdown](/learning-markdown.md)
+- [The Coder's Computer](/coders-computer.md)
