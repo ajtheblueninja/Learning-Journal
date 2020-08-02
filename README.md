@@ -12,14 +12,10 @@
 
 [And this is my profile page](/https://github.com/ajtheblueninja)
  (If it doesnt work my username is ajtheblueninja)
-A growth mindset is when you keep your mind open to new ideas and possibilites to acheive a goal.
-
-Ways to keep your mind open
-1. Always keep your mind open to new possibilites
-2. stay positive no matter what
-3. accept help when offered
 
 Table Of Contents
+- [GrowthMindset](/growthmindset.md)
 - [Markdown examples from class 1](/Markdown-examples.md)
 - [Learning Markdown](/learning-markdown.md)
 - [The Coder's Computer](/coders-computer.md)
+- [Revisions and the Cloud](/revisions-and-the-cloud.md)
