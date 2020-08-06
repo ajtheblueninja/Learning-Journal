@@ -21,3 +21,4 @@ Table Of Contents
 - [Revisions and the Cloud](/revisions-and-the-cloud.md)
 - [structure of webpages with html](/structure-webpages.md)
 - [design webpages with css](/designwebpageswithcss.md)
+- [Javascript and Jquery](/javascript-and-jquery.md)
