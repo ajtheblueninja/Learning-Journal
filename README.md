@@ -22,3 +22,4 @@ Table Of Contents
 - [structure of webpages with html](/structure-webpages.md)
 - [design webpages with css](/designwebpageswithcss.md)
 - [Javascript and Jquery](/javascript-and-jquery.md)
+- [Computer-architecture-and-logic](/computer-architecture-and-logic.md)
