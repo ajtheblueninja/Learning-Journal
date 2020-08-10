@@ -1,3 +1,5 @@
+[Go to read me](/README.md)
+
 # Design Webpages with CSS
 
 First of all lets cover what CSS is, *css is a programing language* that lets you set rules that specify how the content of an element should appear, for example the background color, the colors of the lettering in a certain paragraph, to even the font of certain text boxes too. However it applys those rules to all of the elements that you assocate with that rule, meaning all if you make a rule about having all of the text be grey in the heading 1(h1) section then all the text you put in the h1 section will be grey and it only applys to the heading 1(h1) section if you say had text in a heading 2(h2) bellow the heading 1(h1) section well it wouldn't matter as the rules you set only affects the heading 1 section, but you can also sellect multiple sections to land under a certain rule. Meaning you can select heading 1(h1) and heading 2 (h2) to fall under a certain rule.

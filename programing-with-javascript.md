@@ -1,0 +1,13 @@
+[Go to read me](/README.md)
+
+## Programing With Javascript
+
+Java script can be used in alot of different ways. You can use to to do equations like adding or subtracting, comparing numbers or variables to eachother, and get and store information give from a user or just gotten from another source. The options are almost unlimited with what you can do but I can explain the most common things with java.
+
+## Expressions and Operators
+
+*Expressions* is another name for a variable that stores data whiether it be a string like the word 'red' or like a *Operator* like 5 * 9. *Operators* Are a way for programmers to make a single digit value from more than 1 variable, which is very helpful when dealing with alot fo data. Now operators by themselves aren't much but what helps them do their job well is *Arithmetic operator* which are the symbols used to conduct the operators like +, -, /, or *. Basically they help the operators do their job better. You use them in any way you'd do a normal equation by inserting them when needed. *string operators* are another type of operator that handle strings, and they work similar to regular operators but you can do more with them like mixing strings and numbers together, and they also normally only use the + symbol to add things together.
+
+## Functions
+
+Functions are a series of statements that together prefer a specific task like print out something, adding things together. To use a function you first must declare it using a function keyword and then the function name and then the statement. Then after you've done that you must call that function to use it using the function name. The best part about functions is once you declare it you can use it as many times as you want in the same javascript file. Now some functions needs information to information and use simply use variables to fill out the information so that when that program runs the correct numbers will be put into place correctly then proccessed correctly. Calling those types of functions are alittle trickier but its still pretty easy to do, all you need to do is to specify the values it should use, those values re called arguements, they can be provided as a simple value or variable. Some functions also return a single value back after the calculation is finished but if its not set right it won't return correctly or the correct result so double check your code if its not working correctly, 

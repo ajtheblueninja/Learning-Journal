@@ -1,3 +1,5 @@
+[Go to read me](/README.md)
+
 # A Growth mind set
 
 A growth mindset is when you keep your mind open to new ideas and possibilites to acheive a goal.

@@ -15,11 +15,12 @@
 
 Table Of Contents
 - [GrowthMindset](/growthmindset.md)
-- [Markdown examples from class 1](/Markdown-examples.md)
+- [Markdown Examples from class 1](/Markdown-examples.md)
 - [Learning Markdown](/learning-markdown.md)
 - [The Coder's Computer](/coders-computer.md)
 - [Revisions and the Cloud](/revisions-and-the-cloud.md)
-- [structure of webpages with html](/structure-webpages.md)
-- [design webpages with css](/designwebpageswithcss.md)
+- [Structure of Webpages With Html](/structure-webpages.md)
+- [Design Webpages with Css](/designwebpageswithcss.md)
 - [Javascript and Jquery](/javascript-and-jquery.md)
-- [Computer-architecture-and-logic](/computer-architecture-and-logic.md)
+- [Computer Architecture and Logic](/computer-architecture-and-logic.md)
+- [Programing with Javascript](/programing-with-javascript.md)

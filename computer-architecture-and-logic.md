@@ -1,3 +1,5 @@
+[Go to read me](/README.md)
+
 ## How Computers Work
 
 All computers can do the following 4 functions. *Input* or be able to get data, *Storage* the ability to store the data thats gotten from the input, *Processing* when the computer processes whats stored on the computer and *Output* or push out the info thats the computer has processed.

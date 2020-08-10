@@ -1,3 +1,5 @@
+[Go to read me](/README.md)
+
 ## Javascript and Jquery
 
 Javascript is actually quite easy to code and remember when you break it down to the basics, all you must remember is that you use variables and conditions. It can add cool features to your html projects. 

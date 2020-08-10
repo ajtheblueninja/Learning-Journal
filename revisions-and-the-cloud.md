@@ -1,3 +1,5 @@
+[Go to read me](/README.md)
+
 # Revisions and the Cloud
 
 You can use Ubuntu to make editions/revisions to your github repository Using commands like *git copy* you can copy your repository from github, now remember that git and github are completely different things, but they work together.

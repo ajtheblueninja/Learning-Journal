@@ -1,3 +1,5 @@
+[Go to read me](/README.md)
+
 # Structure Of Webpages
 
 Webpage design is very simple but complicated at the same time, a webpage consists of 3 main parts. the title, the head, and the body. The main coding method used in webdesign is html. When ending a tag you must use a / before the characterm, their are a few exceptions but normally you have to end tags.You can make webpages on alot of things like notepad which is pretty simple to use.
