@@ -24,3 +24,4 @@ Table Of Contents
 - [Javascript and Jquery](/javascript-and-jquery.md)
 - [Computer Architecture and Logic](/computer-architecture-and-logic.md)
 - [Programing with Javascript](/programing-with-javascript.md)
+- [Operators and Loops](/operators-and-loops.md) 
