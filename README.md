@@ -24,4 +24,6 @@ Table Of Contents
 - [Javascript and Jquery](/javascript-and-jquery.md)
 - [Computer Architecture and Logic](/computer-architecture-and-logic.md)
 - [Programing with Javascript](/programing-with-javascript.md)
-- [Operators and Loops](/operators-and-loops.md) 
+- [Operators and Loops](/operators-and-loops.md)
+
+(This is from my first orginal online coding camp that I took in 2020 during the pandemic shutdown_
